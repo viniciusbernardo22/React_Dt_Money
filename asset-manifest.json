@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/React_Dt_Money/static/js/main.c275d84b.js",
+    "static/media/Logo.svg": "/React_Dt_Money/static/media/Logo.feef76739446479095a5ead411ac71d2.svg",
+    "static/media/Total.svg": "/React_Dt_Money/static/media/Total.efc003fec6ccd094143486647c83e038.svg",
+    "index.html": "/React_Dt_Money/index.html",
+    "static/media/Saídas.svg": "/React_Dt_Money/static/media/Saídas.6eb96d3079777422e5bd5deaa688a46e.svg",
+    "static/media/Entradas.svg": "/React_Dt_Money/static/media/Entradas.d58effe2f7ca5d17f64c8350e5fa2fe2.svg",
+    "static/media/Close.svg": "/React_Dt_Money/static/media/Close.f62862c6571367515ce17c7b4e77a1fc.svg",
+    "main.c275d84b.js.map": "/React_Dt_Money/static/js/main.c275d84b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c275d84b.js"
+  ]
+}
