@@ -3,12 +3,9 @@ import { Container, RadioBox, TransactionTypeContainer } from './styles'
 import incomeImg from '../../assets/Entradas.svg'
 import outcomeImg from '../../assets/Saídas.svg'
 import close from '../../assets/Close.svg'
-import { FormEvent, useState, useContext } from 'react'
-import { api } from '../../services/api'
-import {
-  TransactionsContext,
-  useTransactions
-} from '../../hooks/useTransactions'
+import { FormEvent, useState } from 'react'
+
+import { useTransactions } from '../../hooks/useTransactions'
 
 interface NewTransactionModalProps {
   isOpen: boolean
